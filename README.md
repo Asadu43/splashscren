@@ -4,4 +4,4 @@ A new Flutter application.
 
 Image:
 
-![](splash.png)
+![](SplashScreen.png)
